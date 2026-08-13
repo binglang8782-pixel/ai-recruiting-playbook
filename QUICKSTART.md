@@ -1,30 +1,31 @@
-# 快速开始指南（付费内容预览）
+# Quick Start Guide (Paid Preview)
 
-完整的配置教程是付费内容的一部分。
-
----
-
-## 包含什么？
-
-付费版的快速开始指南包括：
-
-- ✅ **所需工具清单** — 具体需要哪些软件和订阅，以及获取方式
-- ✅ **逐步安装教程** — 截图 + 图文说明，跟着做不会出错
-- ✅ **常见安装问题处理** — 遇到报错怎么办
-- ✅ **第一次运行验证** — 确认配置成功的方法
+The full setup guide is part of the paid version.
 
 ---
 
-## 大概需要准备什么？
+## What's Included?
 
-你需要一个支持**浏览器自动化**的 AI 工具，以及对应招聘平台的 HR 账号。
+The paid Quick Start guide covers:
 
-具体是哪些工具、怎么配置、多少钱——在付费版里详细说明。
+- ✅ **Required tools list** — exactly what you need, and how to get it
+- ✅ **Step-by-step setup** — screenshots at every step, no guesswork
+- ✅ **Common setup issues** — what to do when things go wrong
+- ✅ **First-run verification** — how to confirm everything is working
 
 ---
 
-## 获取完整配置教程
+## What Will I Need?
 
-→ **[爱发电购买完整版（99元）](https://afdian.com/a/chris_0902)**
+You need an AI tool that supports **browser automation**, plus an HR account on your target job platform.
 
-购买后获得私有仓库访问权限，包含完整安装步骤（截图图文教程）。
+The specific tools, setup steps, and costs are explained in the paid version.
+
+---
+
+## Get the Full Setup Guide
+
+→ **[Purchase on Afdian（99元，中文买家）](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)**  
+→ **[Purchase on Gumroad（$14 USD, international）](https://gumroad.com)** *(coming soon)*
+
+After purchase, you'll receive access to a private GitHub repo with the complete installation guide (with screenshots).
