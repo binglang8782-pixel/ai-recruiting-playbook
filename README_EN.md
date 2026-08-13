@@ -55,7 +55,7 @@ Continue to next batch?
 ## Get the Full Playbook
 
 > **Paid version: ¥99 (~$14 USD)**
-> → **[Purchase on Afdian](https://afdian.com)** (search "AI招聘助手")
+> → **[Purchase on Afdian](https://afdian.com/a/chris_0902)**
 
 | Included | Details |
 |----------|---------|
