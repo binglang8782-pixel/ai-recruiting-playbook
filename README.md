@@ -53,7 +53,9 @@ Continue to next batch?
 
 ## Get the Full Playbook
 
-> **¥99 / ~$14 USD**
+> **Paid version: $14 USD (¥99 CNY)**  
+> → **[Buy on Ko-fi — $14](https://ko-fi.com/s/f328bd2072)** (international buyers)  
+> → **[Buy on Afdian — ¥99](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)** (China buyers)
 
 | Included | Details |
 |----------|---------|
@@ -65,8 +67,6 @@ Continue to next batch?
 | 🛠️ Multi-role versions | Ops / Sales / Support / Design |
 | 💬 Buyer Q&A group | Ask questions, get updates |
 
-🇨🇳 **Chinese buyers:** [Purchase on Afdian](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)  
-🌍 **International buyers:** [Purchase on Gumroad](https://gumroad.com) *(coming soon)*
 
 ---
 
