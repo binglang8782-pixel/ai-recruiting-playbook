@@ -26,6 +26,6 @@ The specific tools, setup steps, and costs are explained in the paid version.
 ## Get the Full Setup Guide
 
 → **[Purchase on Afdian（99元，中文买家）](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)**  
-→ **[Purchase on Gumroad（$14 USD, international）](https://gumroad.com)** *(coming soon)*
+→ **[Purchase on Ko-fi ($14 USD, international)](https://ko-fi.com/s/f328bd2072)**
 
 After purchase, you'll receive access to a private GitHub repo with the complete installation guide (with screenshots).
