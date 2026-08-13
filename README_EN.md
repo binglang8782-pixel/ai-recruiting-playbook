@@ -4,6 +4,8 @@
 
 > Screen 100 candidates in 20 minutes. Automated outreach. No coding required.
 
+[![Stars](https://img.shields.io/github/stars/binglang8782-pixel/ai-recruiting-playbook?style=social)](https://github.com/binglang8782-pixel/ai-recruiting-playbook)
+
 ---
 
 ## Results
@@ -60,7 +62,7 @@ Continue to next batch?
 | 📋 Screening criteria template | Fill-in-the-blank, ready in 10 minutes |
 | 🤖 Complete prompt pack | Copy-paste ready for every stage |
 | 🔍 Edge case handbook | The hardest part to figure out alone |
-| 🎬 30-min walkthrough video | Step-by-step from zero to running |
+| 📖 Step-by-step written guide | Screenshots at every step, no guesswork |
 | 📊 Candidate tracker (Excel) | Prevents duplicate outreach |
 | 🛠️ Multi-role versions | Ops / Sales / Support / Design |
 | 💬 Buyer Q&A group | Ask questions, get updates |
