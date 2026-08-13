@@ -41,7 +41,8 @@
 ## 获取完整 Prompt
 
 
-→ **[爱发电购买完整版（99元）](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)**
+→ **[爱发电购买（中国用户 / 99元）](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)**  
+→ **[Ko-fi 购买（海外用户 / $14）](https://ko-fi.com/s/f328bd2072)**
 
 
 购买后获得私有仓库访问权限，包含所有平台的完整 Prompt 及使用说明。
