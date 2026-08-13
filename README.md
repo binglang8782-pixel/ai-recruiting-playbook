@@ -1,86 +1,88 @@
-# 🤖 AI 招聘筛选助手
+# 🤖 AI Recruiting Screener
 
-**[English](README_EN.md) | 中文**
-
-> 100 个候选人，20 分钟筛完，自动打招呼，自动要简历。
+> Screen 100 candidates in 20 minutes. Auto-message qualified ones. Auto-request resume. No coding required.
 
 [![Stars](https://img.shields.io/github/stars/binglang8782-pixel/ai-recruiting-playbook?style=social)](https://github.com/binglang8782-pixel/ai-recruiting-playbook)
 
----
-
-## 效果对比
-
-| 指标 | 人工 | AI 辅助 |
-|------|------|---------|
-| 浏览 100 个候选人 | ~3 小时 | **~20 分钟** |
-| 漏掉符合条件的人 | 常见 | 几乎不漏 |
-| 重复联系同一人 | 时有发生 | 自动跳过 |
-| 触达后忘记索材 | 容易忘 | 自动追发 |
+**[中文版](README_zh.md)**
 
 ---
 
-## 能做什么
+## Results
 
-✅ 按你的标准自动扫描候选人列表，逐个判断是否符合
-✅ 不符合的直接跳过，符合的自动打招呼
-✅ 打完招呼立刻追发索材消息，不用你再操心
-✅ 遇到拿不准的边界情况，暂停来问你
-✅ 定时汇报进度，已联系的不重复接触
-✅ 适用 BOSS直聘、猎聘、智联招聘、拉勾等主流平台
+| Metric | Manual | AI-Assisted |
+|--------|--------|-------------|
+| Review 100 candidates | ~3 hours | **~20 minutes** |
+| Missing qualified candidates | Common | Rarely happens |
+| Accidentally re-contacting someone | Happens | Auto-skipped |
+| Forgetting to request resume/portfolio | Easy to forget | Auto-sent |
 
 ---
 
-## 实际输出样例
+## What It Does
+
+✅ Scans candidate lists automatically based on your criteria  
+✅ Skips unqualified candidates instantly, messages qualified ones  
+✅ Immediately follows up with resume/portfolio requests  
+✅ Pauses and asks you when it hits an edge case  
+✅ Reports progress periodically, never contacts the same person twice  
+✅ Works on BOSS直聘, LinkedIn, 猎聘, 智联招聘, 拉勾, and similar platforms  
+
+---
+
+## Sample Output
 
 ```
-📊 进度汇报（第 3 批，共 20 人）
+📊 Progress Report — Batch 3 (20 candidates)
 
-✅ 已接触（3 人）：
-- 候选人A，25岁，本科，3年相关经验 → 已打招呼+索简历
-- 候选人B，27岁，本科，4年相关经验 → 已打招呼+索简历
-- 候选人C，24岁，本科，大厂背景     → 已打招呼+索简历
+✅ Contacted (3):
+- Candidate A, 25, Bachelor's, 3 yrs experience → Messaged + requested resume
+- Candidate B, 27, Bachelor's, 4 yrs experience → Messaged + requested resume
+- Candidate C, 24, Bachelor's, top-tier background → Messaged + requested resume
 
-⏭️ 跳过（16 人）：
-  年龄不符 2人 / 学历不符 5人 / 岗位不符 6人 / 已联系过 3人
+⏭️ Skipped (16):
+  Age mismatch: 2 / Education mismatch: 5 / Role mismatch: 6 / Already contacted: 3
 
-❓ 需你判断（1 人）：
-- 候选人D 背景特殊，是否纳入考虑？
+❓ Need your call (1):
+- Candidate D has an unusual background — does this fit your criteria?
 
-继续下一批？
+Continue to next batch?
 ```
 
 ---
 
-## 获取完整方法
+## Get the Full Playbook
 
-> **付费完整版：99元**
-> → **[爱发电购买](https://afdian.com/a/chris_0902)**（搜索「AI招聘助手」）
+> **¥99 / ~$14 USD**
 
-| 内容 | 说明 |
-|------|------|
-| 📋 筛选条件模板 | 填空式，10分钟内写好你的筛选标准 |
-| 🤖 完整 Prompt 包 | 各环节指令，复制即用 |
-| 🔍 边界案例手册 | 最难自己摸索的判断规则 |
-| 📖 图文安装教程 | 截图逐步说明，跟着做不会出错 |
-| 📊 候选人追踪表 | Excel，防重复联系 |
-| 🛠️ 多岗位版本 | 运营/销售/客服/设计师 |
-| 💬 买家答疑群 | 遇到问题直接问 |
+| Included | Details |
+|----------|---------|
+| 📋 Screening criteria template | Fill-in-the-blank, ready in 10 minutes |
+| 🤖 Complete prompt pack | Copy-paste ready for every stage |
+| 🔍 Edge case handbook | The hardest part to figure out alone |
+| 📖 Step-by-step written guide | Screenshots at every step, no guesswork |
+| 📊 Candidate tracker (Excel) | Prevents duplicate outreach |
+| 🛠️ Multi-role versions | Ops / Sales / Support / Design |
+| 💬 Buyer Q&A group | Ask questions, get updates |
+
+🇨🇳 **Chinese buyers:** [Purchase on Afdian](https://afdian.com/item/25dbf4e496fa11f190f15254001e7c00)  
+🌍 **International buyers:** [Purchase on Gumroad](https://gumroad.com) *(coming soon)*
 
 ---
 
 ## FAQ
 
-**Q: 会被平台封号吗？**
-A: 操作行为与真人完全一致，目前测试无异常。建议每次不超过 100 人。
+**Q: Will the platform ban my account?**  
+A: The AI behaves exactly like a human user. No issues in testing. Keep sessions under 100 candidates to be safe.
 
-**Q: 需要会编程吗？**
-A: 完全不需要。
+**Q: Do I need to know how to code?**  
+A: No. Zero technical knowledge required.
 
-**Q: 适用哪些平台？**
-A: BOSS直聘（已验证）、猎聘、智联、拉勾均可。
+**Q: Which platforms does it work on?**  
+A: BOSS直聘 (verified), LinkedIn, 猎聘, 智联, 拉勾, and similar job platforms.
 
-→ [完整 FAQ](docs/faq.md) | [技术原理](docs/how-it-works.md)
+→ [Full FAQ](docs/faq.md) | [How It Works](docs/how-it-works.md)
 
 ---
 
-*觉得有用请点 ⭐ Star — 感谢支持。*
+*Found this useful? Give it a ⭐ Star — it helps others find it.*
